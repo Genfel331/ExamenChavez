@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">convert</string>
+    <string name="text">temperature</string>
+    <string name="area">Area Units</string>
+    <string name="celsius">Celsius to Fahrenheit</string>
+    <string name="Fahrenheit">Fahrenheit to Celsius</string>
+    <string name="distancia">Distance Units</string>
+    <string name="metro">meter one kilometer</string>
+    <string name="kilometro">metro to kilometro</string>
+    <string name="metros">meter to Centimeter</string>
+    <string name="centimetros">Centimeter to meter</string>
+
+    <string name="ac2">Celsius to fahrenheit</string>
+    <string name="Ingresa">Enter</string>
+    <string name="calcular">Calculate</string>
+    <string name="Resultado">Result</string>
+</resources>
